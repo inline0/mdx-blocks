@@ -20,4 +20,3 @@ This plugin is part of the Inline0 monorepo.
 
 - PHP 8.0 or higher
 - WordPress 6.0 or higher
-
